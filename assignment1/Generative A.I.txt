@@ -1,0 +1,4 @@
+Generative AI can respond naturally to human conversation and serve as a tool for customer
+service and personalization of customer workflows. For example, you can use AI-powered 
+chatbots, voice bots, and virtual assistants that respond more accurately to customers for
+first-contact resolution.

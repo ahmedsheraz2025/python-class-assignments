@@ -1,0 +1,3 @@
+Cloud native is the software approach of building, deploying, and managing modern applications
+in cloud computing environments. Modern companies want to build highly scalable, flexible, and
+resilient applications that they can update quickly to meet customer demands.

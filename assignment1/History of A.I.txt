@@ -1,0 +1,3 @@
+The term “artificial intelligence” was coined and came into popular use.
+Dates of note: 1950: Alan Turing published “Computer Machinery and Intelligence” which proposed
+a test of machine intelligence called The Imitation Game.
